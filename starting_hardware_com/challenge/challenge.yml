@@ -1,0 +1,33 @@
+
+title: "UART + I2C + SPI"
+category: "Hardware"
+difficulty: 1  
+
+description: |-
+  Objective:
+  This challenge introduces three major hardware communication protocols through
+  real signal captures made with a logic analyzer (PulseView/sigrok).
+
+  Context:
+  Three capture files are provided, each corresponding to a different protocol:
+  - UART
+  - I²C
+  - SPI
+
+  Goal:
+  Each capture contains one part of the flag. The final flag is the concatenation of
+  all three parts, in the following order:
+  UART → I²C → SPI. No trick in the order.
+
+
+flag: "GH{C0nnect1v1tySecureUAR73P1ITWOCHardWar3}" 
+
+files:
+  - "uart_capture.sr"  # UART capture (PulseView)
+  - "i2c_capture.sr"   # I2C capture (PulseView)
+  - "spi_capture.sr"   # SPI capture (PulseView)
+
+
+contact:
+  name: "Segfault"
+

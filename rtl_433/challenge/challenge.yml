@@ -1,0 +1,33 @@
+title: "Radio: 433 MHz"
+category: "Hardware / IoT"
+difficulty: 2 
+
+description: |-
+  Objective:
+  Introduce participants to basic radio signal analysis in a noisy, real-world RF
+  environment and have them extract challenge-relevant messages from captures.
+
+  Context:
+  Short text phrases are transmitted by a 433 MHz transmitter controlled by an
+  Arduino MKR WiFi 1010. The text payloads are encrypted with a Vigenère cipher.
+  The Vigenère **key itself** is transmitted in clear text somewhere in the captures.
+  The final flag format is `GH{<key>}` — participants must recover the key from the
+  captures (it appears in plain text as a single token) and then wrap it with `GH{` and `}`.
+
+  Important peculiarity about the FLAG:
+  - The Vigenère key is present in the provided captures **in clear text** (for example: `IAMTH3FLAG`).
+  - The challenge requires you to take that raw key and build the flag exactly as `GH{<key>}`.
+  - The captures were recorded in a dense RF environment; many unrelated transmissions are present.
+    Only some bursts contain the challenge payloads or the plaintext key.
+
+files:
+  - "gXYZ_433.92M_250k.cu8" 
+
+
+flag: "GH{RADIOWAVEAUTHMHZ}"  
+
+
+
+contact:
+  name: "Segfault"
+

@@ -1,0 +1,35 @@
+A: Grey Echo, radio check —
+A: keep this channel minimal;
+A: the river is hot.
+B: Copy, Blue Lantern.
+B: I hear movement—otters in pairs,
+B: one wearing a headset. Proceed.
+A: Situation update: the contact
+A: reports his encryption key is missing —
+A: stolen by a ninja otter during close contact.
+A: He requires immediate reissue.
+B: Confirmed. That’s a priority breach.
+B: He must not reintroduce the old seed.
+B: Prepare replacement.
+A: Waiting for interference window.
+A: Do not transmit key until static peak.
+A: The pony and the otters are
+A: patrolling both banks.
+B: Understood. Static rising now —
+B: ready to receive.
+B: Send the new key, one-time use only.
+A: Transmitting: 'RADIOWAVEAUTHMHZ'.
+A: Use strictly once and burn after confirmation.
+B: Key received. Verify checksum.
+A: Checksum: Hotel-Nine-Delta —
+A:match confirmed. Old key will be purged.
+B: I will resend to the contact and
+B: instruct immediate rotation.
+B: He must accept no physical handoff —
+B: ninja otters use grappling tactics.
+A: Agreed. Advise him to change authentication
+A: channels and relocate to the forest
+A: backup node before confirming.
+B: Acknowledged. I will shield transmissions
+B: and burn logs after transfer.
+B: Keep watch; any movement, cut power. Over.

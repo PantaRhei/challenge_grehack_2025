@@ -1,0 +1,7 @@
+// Messages encodés/décodés avec le chiffre de Vigenere
+// Clé utilisée : choisir un truc cool
+
+const char* messages_cipher[] = {"JLZTG", "EOOB", "OVBLW", "RFHPGV", "VLGB"};
+const char* messages_clear[]  = {"HELLO", "CHAT", "MONDE", "PYTHON", "TEST"};
+
+const int messageCount = 5;
