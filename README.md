@@ -1,6 +1,6 @@
 # GreHack 2025 — Hardware Challenges
 
-Two hardware security challenges created for GreHack CTF 2025.
+Two hardware security challenges created for GreHack CTF 2025. (200+ participants)
 
 ---
 
